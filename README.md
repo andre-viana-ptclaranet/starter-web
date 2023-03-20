@@ -10,3 +10,6 @@ This is the intuduction
 Sample website with plenty of files for demos
 
 ## How to contribute
+
+Add the code you want plssss help
+this is good
