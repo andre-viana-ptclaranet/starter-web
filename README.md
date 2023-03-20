@@ -13,3 +13,8 @@ Sample website with plenty of files for demos
 
 Add the code you want plssss help
 this is good
+
+
+###Copyright
+
+2022 Copyright
