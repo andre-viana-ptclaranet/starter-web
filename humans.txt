@@ -3,7 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    Andre Viana andre@sdads.pt
 
 # THANKS
 
